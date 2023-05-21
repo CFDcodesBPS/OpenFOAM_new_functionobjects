@@ -1,0 +1,4 @@
+rotation_rate_tensor.C
+
+LIB = $(FOAM_USER_LIBBIN)/librotation_rate_tensor
+
