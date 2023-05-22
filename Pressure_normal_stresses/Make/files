@@ -1,0 +1,4 @@
+Pressure_normal_stresses.C
+
+LIB = $(FOAM_USER_LIBBIN)/libPressure_normal_stresses
+
