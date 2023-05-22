@@ -1,0 +1,4 @@
+Strain_rate_tensor.C
+
+LIB = $(FOAM_USER_LIBBIN)/libStrain_rate_tensor
+
