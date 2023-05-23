@@ -1,0 +1,1 @@
+LIB = $(FOAM_USER_LIBBIN)/libStreamline_curvature
